@@ -1,0 +1,33 @@
+﻿{
+	"version": 1559738808,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground3.png",
+		"images/tiledbackground4.png",
+		"images/tiledbackground5.png",
+		"images/tiledbackground6.png",
+		"images/tiledbackground7.png",
+		"images/alin-sheet0.png",
+		"images/maçã-sheet0.png",
+		"images/geleia-sheet0.png",
+		"images/boss-sheet0.png",
+		"images/hamburguer-sheet0.png",
+		"images/pizzagigante-sheet0.png",
+		"images/cenora-sheet0.png",
+		"images/michaljackson-sheet0.png",
+		"images/michaljackson-sheet1.png",
+		"images/michaljackson-sheet2.png",
+		"images/michaljackson-sheet3.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}

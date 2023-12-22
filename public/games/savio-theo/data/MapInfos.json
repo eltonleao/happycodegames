@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Casa","order":1,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
+{"id":2,"expanded":true,"name":"mapaa","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"escola","order":4,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Lojas","order":3,"parentId":2,"scrollX":720,"scrollY":399.3333333333333},
+{"id":5,"expanded":false,"name":"Vácuo","order":5,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
+{"id":6,"expanded":false,"name":"Jardim Oriental","order":6,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
+{"id":7,"expanded":true,"name":"MAP007","order":7,"parentId":0,"scrollX":720,"scrollY":399.3333333333333}
+]

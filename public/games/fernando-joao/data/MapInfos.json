@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"mundo exterior","order":1,"parentId":0,"scrollX":810,"scrollY":449.25},
+{"id":2,"expanded":true,"name":"recepcao","order":2,"parentId":1,"scrollX":810,"scrollY":449.25},
+{"id":3,"expanded":true,"name":"Sala de Aula","order":7,"parentId":2,"scrollX":810,"scrollY":449.25},
+{"id":4,"expanded":true,"name":"corredor L 2","order":4,"parentId":7,"scrollX":810,"scrollY":449.25},
+{"id":5,"expanded":true,"name":"loja","order":8,"parentId":2,"scrollX":810,"scrollY":449.25},
+{"id":6,"expanded":true,"name":"dungeon","order":5,"parentId":4,"scrollX":810,"scrollY":449.25},
+{"id":7,"expanded":true,"name":"corredor L 1","order":3,"parentId":2,"scrollX":810,"scrollY":449.25},
+{"id":8,"expanded":true,"name":"Castelo","order":9,"parentId":0,"scrollX":1231.5,"scrollY":1392.75},
+{"id":9,"expanded":false,"name":"Castelo 3º Andar","order":10,"parentId":8,"scrollX":1170,"scrollY":492.75},
+{"id":10,"expanded":true,"name":"dungeon","order":6,"parentId":6,"scrollX":810,"scrollY":449.25}
+]
