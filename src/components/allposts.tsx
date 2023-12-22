@@ -28,9 +28,12 @@ export function AllPosts() {
   return (
     <section className="py-40 px-8">
       <div className="container mx-auto mb-12">
-        <Typography variant="h3" color="blue-gray">
-          DEVLOG
-        </Typography>
+        <Typography
+          variant="h3"
+          color="blue-gray"
+          children={"DEVLOG"}
+          placeholder={undefined}
+        ></Typography>
       </div>
       {loading ? (
         <div className="flex justify-center">

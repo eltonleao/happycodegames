@@ -4,10 +4,7 @@ import { Navbar, Footer } from "@/components";
 
 // sections
 import Hero from "./hero";
-import LatestBlogPosts from "./latest-blog-posts";
-import ContactForm from "./contact-form";
-
-import AllPosts from "../components/allposts-mvp";
+import AllPosts from "../components/allposts";
 
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
