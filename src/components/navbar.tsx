@@ -121,7 +121,7 @@ export function Navbar({ isSolid = false }) {
       <Collapse open={open}>
         <div className="container mx-auto mt-4 rounded-lg bg-white px-6 py-5">
           <ul className="flex flex-col gap-4 text-blue-gray-900">
-            <NavItem href="/">Home</NavItem>
+            {/* <NavItem href="/">Home</NavItem> */}
             {/* <NavItem>About Us</NavItem> */}
             {/* <NavItem href="/#contact">Contact</NavItem>{" "} */}
           </ul>
