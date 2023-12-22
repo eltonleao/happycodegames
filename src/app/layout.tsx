@@ -1,7 +1,8 @@
+//@ts-check
 import "./globals.css";
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
-import { Layout, FixedPlugin } from "@/components";
+import { Layout } from "@/components";
 
 const roboto = Roboto({
   subsets: ["latin"],

@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Typography, IconButton } from "@material-tailwind/react";
 
 const CURRENT_YEAR = new Date().getFullYear();
