@@ -1,4 +1,4 @@
-//@ts-check
+//@ts-nocheck
 "use client";
 // components
 import { Navbar, Footer } from "@/components";

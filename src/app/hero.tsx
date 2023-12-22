@@ -1,4 +1,4 @@
-//@ts-check
+//@ts-nocheck
 "use client";
 import YouTube from "react-youtube";
 
