@@ -40,9 +40,9 @@ export function Footer() {
             </Link>
           </div>
           <Typography className="text-center font-normal !text-gray-700">
-            <Link href={"https://eltonleao.com"} target="_blank">
+            <Link href={"https://eltonleao.dev"} target="_blank">
               {" "}
-              &copy; {CURRENT_YEAR} eltonleao.com
+              &copy; {CURRENT_YEAR} eltonleao.dev
             </Link>
           </Typography>
         </div>
